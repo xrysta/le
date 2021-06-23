@@ -1,0 +1,14 @@
+body {
+    width: 400px;
+    height: 400px;
+    margin: 20px auto;
+
+    background-color: rgb(46, 85, 136);
+    
+    font-family:'Courier New', Courier, monospace, sans-serif;
+    font-size: 15px;
+    color:aqua;
+}
+body.p {
+    font-size: 13px;
+}
